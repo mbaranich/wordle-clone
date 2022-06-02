@@ -20,6 +20,7 @@
 
 ## Technologies Used
 - HTML5
+- CSS
 - Vanilla Javascript - version ES6
 
 
